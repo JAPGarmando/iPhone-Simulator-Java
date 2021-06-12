@@ -1,0 +1,14 @@
+EQUIPO #5 - Mi iPhone
+Julio Armando Pérez Gama 
+Miguel Alberto Gallegos González
+UVM Coyoacán 
+Programación Concurrente
+
+Instrucciones:
+La contraseña por defecto de Admin (administrador) es: 1234
+La contraseña por defecto de Usuario es: 0123
+Invitado se accede por medio del boton "INV" en la pantalla de bloqueo del celular
+
+Notas: 
+Para cambiar los puertos hacia la base de datos, se cambia en la clase conectar
+La base de datos debe estar en proyecto. Si se quiere cambiar, se tiene que poner en la clase conectar.
